@@ -18,3 +18,8 @@ desafio2- if ($_SESSION["perfil"] == "cliente"){
 }else if ($_SESSION["perfil"] == "professor"){
     echo "Está é a area da empresa";
 }
+
+AULA-5
+ex1- O perfil de usuario é o tanto de acesso que cada usuaio tem no sistema por exemplo só ver aquilo que esta designado ao usuario
+
+ex2- O logico impede o usuario de acessar paginas diretamente e o visual mostra ou esconde os menus dependendo do perfil 
