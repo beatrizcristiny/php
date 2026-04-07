@@ -13,14 +13,21 @@
              <th>Valor</th>
               <th>Tipo</th>
 </tr>
-</thead>
 <tbody>
-    <tr>
-         
+    <tr> 
           <th>Bia</th>
            <th>2000,00</th>
             <th>Cliente</th>
-</table>
+</tr>
+<tbody>
+    <tr>
+                <th>Ana</th>
+                <th>3023,00</th>
+                <th>Dev</th>
+</tr>
+</thead>
+
+            </table>
 
 
 
