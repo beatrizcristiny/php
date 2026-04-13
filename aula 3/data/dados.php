@@ -15,6 +15,13 @@ $usuarios = [
         "senha" => "123",
         "perfil" => "proprietario"
     ]
+    [
+        "usuario" => "finceiro",
+        "senha" => "12323",
+        "perfil" => "finanças"
+    ]
+
+
 ];
 $contas = [];
 ?>
