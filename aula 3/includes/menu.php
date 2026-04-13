@@ -5,7 +5,7 @@
         <a class="navbar-brand" href="#">Sistema Financeiro</a>
         <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-                <a class="nav-link" href="dashboard.php">Dashboard</a>
+                <a class="nav-link" href="../pages/dashboard.php">Dashboard</a>
             </li>
             <?php if ($perfil == "cliente") { ?>
             <li class="nav-item">

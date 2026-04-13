@@ -14,14 +14,17 @@ $usuarios = [
         "usuario" => "admin",
         "senha" => "123",
         "perfil" => "proprietario"
-    ]
+    ],
     [
-        "usuario" => "finceiro",
+        "usuario" => "finaceiro",
         "senha" => "12323",
         "perfil" => "finanças"
     ]
 
 
 ];
-$contas = [];
+$contas = [[
+    "descricao" => "Mensalidade", "valor" => 200, "tipo" => "Pagar"
+],["descricao" => "Aluguel", "valor" => 260, "tipo" => "Receber"]];
+
 ?>
