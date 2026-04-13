@@ -27,5 +27,7 @@ include "../../data/dados.php";
                 
             }
             ?>
+            </tbody>
     </table>
 </div>
+<?php include "../../includes/footer.php"; ?>  

@@ -25,6 +25,10 @@ $usuarios = [
 ];
 $contas = [[
     "descricao" => "Mensalidade", "valor" => 200, "tipo" => "Pagar"
-],["descricao" => "Aluguel", "valor" => 260, "tipo" => "Receber"]];
+],["descricao" => "Aluguel", "valor" => 260, "tipo" => "Receber"], [
+    "descricao" => "Mensalidade", "valor" => 200, "tipo" => "Pagar"
+],[
+    "descricao" => "Mensalidade", "valor" => 200, "tipo" => "Pagar"
+],];
 
 ?>
